@@ -32,7 +32,7 @@
 <ul>
   <li>
     <p>
-      <a href="https://github.com/da-imran/masjid-portal">Masjid Al-Mustaghfirin website portal with Laravel Framework</a><br>
+      <a href="https://github.com/da-imran/masjid-portal">Masjid Al-Mustaghfirin website portal</a><br>
       <i>Website portal build with Laravel Framework and Laragon</i>
     </p>
   </li>
