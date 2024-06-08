@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/MSSQL-005C84?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/TSQL-005C84?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-FFD43B?style=for-the-badge&logo=powerbi&logoColor=blue" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 <br>
