@@ -36,6 +36,12 @@
       <i>Website portal build with Laravel Framework and Laragon</i>
     </p>
   </li>
+  <li>
+    <p>
+      <a href="https://github.com/da-imran/python_cpi_malaysia">Predictive Analysis Cost Of Living Malaysia</a><br>
+      <i>A final year project during my undergraduate degree study build with Python and Power BI</i>
+    </p>
+  </li>
 </ul>
 <br>
 <p>Where to find me</p>
