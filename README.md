@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/TSQL-005C84?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-FFD43B?style=for-the-badge&logo=powerbi&logoColor=blue" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gitlab-E34F26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-239120?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 <br>
 <p>My latest posts</p>
